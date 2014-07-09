@@ -2,8 +2,9 @@ MeterClock
 ==========
 
 Arduino code for Dan's Meter Clock.
-
 http://maniacallabs.com/2014/07/08/meter-clock-pt1
+
+**This project is still 'In Progress' and code is for reference only**
 
 Pin Connections:
 ----------------
